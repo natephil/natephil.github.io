@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Syntactic Complexity](https://bl.ocks.org/natephil/raw/21a573bac77983d9d9a47f88ee9220c2/)
+[Syntactic Complexity](<a href="https://bl.ocks.org/natephil/raw/21a573bac77983d9d9a47f88ee9220c2/" target="_blank"></a>)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
