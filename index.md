@@ -1,10 +1,10 @@
-## Portfolio
+## My Portfolio
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Syntactic Complexity](https://bl.ocks.org/natephil/raw/21a573bac77983d9d9a47f88ee9220c2/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Syntactic Complexity](http://example.com/)
+- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
