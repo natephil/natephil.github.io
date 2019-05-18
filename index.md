@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-<ahref="/pdf/sample_presentation.pdf" target="_blank">Project 2 Title</a>
+<a href="/pdf/sample_presentation.pdf" target="_blank">Project 2 Title</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
