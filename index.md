@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Syntactic Complexity](<a href="https://bl.ocks.org/natephil/raw/21a573bac77983d9d9a47f88ee9220c2/" target="_blank">Scatterplot with tool tip</a>)
+<a href="https://bl.ocks.org/natephil/raw/21a573bac77983d9d9a47f88ee9220c2/" target="_blank">Syntactic Complexity</a>)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
