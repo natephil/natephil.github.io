@@ -1,4 +1,4 @@
-title: <a href="name_title"</a> # your name (or website title) here
+title: "name_title?raw=true" # your name (or website title) here
 logo: "/images/darth_vader_logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   B.A. in Linguistics from UC Berkeley 
