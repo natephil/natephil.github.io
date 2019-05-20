@@ -1,5 +1,5 @@
 ## My Portfolio
-<a name="sometext"></a>
+
 ---
 
 ### Projects
