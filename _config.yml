@@ -1,3 +1,4 @@
+title: Nathan Cahn og  # your name (or website title) here
 <!DOCTYPE html>
 <style type="text/css"
 .first {
@@ -37,7 +38,6 @@ div {
   <h1 class="second">Nathan Cahn 2</h1>
   <h1 class="third">Nathan Cahn 3</h1>
 </div>
-title: Nathan Cahn og  # your name (or website title) here
 logo: "/images/darth_vader_logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   B.A. in Linguistics from UC Berkeley 
