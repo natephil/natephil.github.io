@@ -4,7 +4,7 @@
 
 ### Projects
 
-<a href="https://bl.ocks.org/natephil/raw/21a573bac77983d9d9a47f88ee9220c2/" target="_blank">Syntactic Complexity</a>
+<a href="https://natephil.github.io/sotu_syntactic_complexity/" target="_blank">Syntactic Complexity</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
