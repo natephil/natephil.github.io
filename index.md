@@ -46,7 +46,7 @@
 }
 
 .fa:hover {
-    opacity: 0.7;
+    opacity: 0.9;
 }
 
 .fa-twitter {
