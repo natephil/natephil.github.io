@@ -4,11 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   B.A. in Linguistics from UC Berkeley 
   <br><br>
-  Data scientist in the making who is interested in the role language plays in what we do
-  <br><br>
+  Data scientist in the making who is interested in the language
+  <br>
   Brown hair, brown eyes, right handed
-  <br><br>
-
+  <br>
   <a href="https://www.linkedin.com/in/nathan-cahn-900b63a1/" target="_blank">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
