@@ -11,5 +11,6 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <a href="https://www.linkedin.com/in/nathan-cahn-900b63a1/" target="_blank">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: duet
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
