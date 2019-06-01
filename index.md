@@ -26,6 +26,10 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+---
+### Contact
+
+<a href="natephil93@gmail.com">&#x2709;</a>
 
 
 
