@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-<a href="https://natephil.github.io/scrolly_test/">&#x1F34C;</a>
+<a href="https://natephil.github.io/scrolly_test/">Test Scrolly</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
