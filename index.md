@@ -46,26 +46,20 @@
 }
 
 .fa:hover {
-    opacity: 0.9;
+    opacity: 0.5;
 }
 
 .fa-twitter {
-  /*background: #55ACEE;*/
-  /*color: #38A1F3;*/
-  /*color: #55ACEE;*/
   color: #1DA1F2;
 }
 
 .fa-linkedin-square {
-  /*background: #007bb5;*/
   color: #007bb5;
 }
 .fa-github {
-  /*background: #211f1f;*/
   color: #211f1f;
 }
 .fa-envelope {
-  /*color: #fea49f;*/
   color: #211f1f;
 }
 </style>
