@@ -29,8 +29,6 @@
 ---
 ### Contact
 
-<a href="https://www.linkedin.com/in/nathan-cahn-900b63a1/">:smiley:</a>
-
 
 
 
