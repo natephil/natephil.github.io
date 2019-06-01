@@ -29,7 +29,7 @@
 ---
 ### Contact
 
-<a href="natephil93@gmail.com">&#x2709;</a>
+<a href="https://www.linkedin.com/in/nathan-cahn-900b63a1/">:smiley:</a>
 
 
 
