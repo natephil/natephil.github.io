@@ -67,10 +67,12 @@
 <body>
 
 <!-- Add font awesome icons -->
-<a href="https://github.com/natephil" target="_blank" class="fa fa-github fa-10x"></a>
-<a href="https://www.linkedin.com/in/nathan-cahn-900b63a1/" target="_blank" class="fa fa-linkedin-square"></a>
-<a href="mailto:natephil93@gmail.com?Subject=Hello%20again" target="_top" class="fa fa-envelope"></a>
-<a href="https://twitter.com/cahn_nathan" target="_blank" class="fa fa-twitter"></a>
+<footer>
+  <a href="https://github.com/natephil" target="_blank" class="fa fa-github fa-10x"></a>
+  <a href="https://www.linkedin.com/in/nathan-cahn-900b63a1/" target="_blank" class="fa fa-linkedin-square"></a>
+  <a href="mailto:natephil93@gmail.com?Subject=Hello%20again" target="_top" class="fa fa-envelope"></a>
+  <a href="https://twitter.com/cahn_nathan" target="_blank" class="fa fa-twitter"></a>
+</footer>
 
 
 
