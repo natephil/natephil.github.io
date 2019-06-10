@@ -4,7 +4,7 @@
 
 ### Projects
 
-<h4>Markov Chain Text Generation with Dr Seuss (Twitter Bot)</h4>
+<h5>Markov Chain Text Generation with Dr Seuss (Twitter Bot)</h5>
 <a href="https://twitter.com/DrSeuss85134023" target="_blank"><img src="images/dr_seuss.jpg?raw=true"/></a>
 <style>
 img {
@@ -22,7 +22,7 @@ img {
 </style>
 
 ---
-###### Test Scrolly with Side Bar
+<h5>Test Scrolly with Side Bar</h5>
 <a href="https://natephil.github.io/scrolly_test_side_bar/"><img src="images/dummy_thumbnail.jpg?raw=true"/></a>
 <style>
 img {
