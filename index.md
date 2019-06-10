@@ -13,7 +13,7 @@ img {
 </style>
 
 ---
-<h3>Test Scrolly</h3>
+<h5>Test Scrolly</h5>
 <a href="https://natephil.github.io/scrolly_test/"><img src="images/dummy_thumbnail.jpg?raw=true"/></a>
 <style>
 img {
@@ -22,7 +22,7 @@ img {
 </style>
 
 ---
-#### Test Scrolly with Side Bar
+###### Test Scrolly with Side Bar
 <a href="https://natephil.github.io/scrolly_test_side_bar/"><img src="images/dummy_thumbnail.jpg?raw=true"/></a>
 <style>
 img {
