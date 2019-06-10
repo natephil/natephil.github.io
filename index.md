@@ -10,16 +10,26 @@
 img {
   border-radius: 10%
 }
-
+</style>
 
 ---
 <a href="https://natephil.github.io/scrolly_test/">Test Scrolly</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<style>
+img {
+  border-radius: 10%
+}
+</style>
 
 ---
 <a href="https://natephil.github.io/scrolly_test_side_bar/">Test Scrolly with Side Bar</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<style>
+img {
+  border-radius: 10%
+}
 </style>
+
 ---
 
 ### Smaller Projects
