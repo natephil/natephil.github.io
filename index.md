@@ -4,8 +4,8 @@
 
 ### Projects
 
-<a href="https://natephil.github.io/sotu_syntactic_complexity/">Syntactic Complexity</a>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://twitter.com/DrSeuss85134023">Markov Chain Text Generation Dr Seuss (Twitter Bot)</a>
+<img src="images/cat_in_the_hat.jpg?raw=true"/>
 
 ---
 <a href="https://natephil.github.io/scrolly_test/">Test Scrolly</a>
@@ -20,7 +20,7 @@
 ### Smaller Projects
 
 - [Summarize This](https://natephil.github.io/summarize_this/)
-- [Project 2 Title](http://example.com/)
+- [Syntactic Complexity](https://natephil.github.io/sotu_syntactic_complexity/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
