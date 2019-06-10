@@ -8,7 +8,7 @@
 <img src="images/dr_seuss.jpg?raw=true"/>
 <style>
 img {
-  border-radius: 50%
+  border-radius: 35%
 }
 </style
 
