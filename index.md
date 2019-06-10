@@ -6,6 +6,9 @@
 
 <a href="https://twitter.com/DrSeuss85134023" target="_blank">Markov Chain Text Generation with Dr Seuss (Twitter Bot)</a>
 <img src="images/dr_seuss.jpg?raw=true"/>
+img {
+  border-radius: 50%
+}
 
 ---
 <a href="https://natephil.github.io/scrolly_test/">Test Scrolly</a>
