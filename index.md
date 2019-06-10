@@ -8,9 +8,9 @@
 <img src="images/dr_seuss.jpg?raw=true"/>
 <style>
 img {
-  border-radius: 0%
+  border-radius: 10%
 }
-</style
+</style>
 
 ---
 <a href="https://natephil.github.io/scrolly_test/">Test Scrolly</a>
