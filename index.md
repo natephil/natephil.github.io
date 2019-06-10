@@ -4,7 +4,7 @@
 
 ### Projects
 
-<a href="https://twitter.com/DrSeuss85134023" target="_blank">Markov Chain Text Generation Dr Seuss (Twitter Bot)</a>
+<a href="https://twitter.com/DrSeuss85134023" target="_blank">Markov Chain Text Generation with Dr Seuss (Twitter Bot)</a>
 <img src="images/lorax.jpg?raw=true"/>
 
 ---
