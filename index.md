@@ -5,7 +5,7 @@
 ### Projects
 
 <a href="https://twitter.com/DrSeuss85134023">Markov Chain Text Generation Dr Seuss (Twitter Bot)</a>
-<img src="images/cat_in_the_hat.jpg?raw=true"/>
+<img src="images/lorax.jpg?raw=true"/>
 
 ---
 <a href="https://natephil.github.io/scrolly_test/">Test Scrolly</a>
