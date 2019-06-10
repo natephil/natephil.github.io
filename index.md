@@ -4,8 +4,9 @@
 
 ### Projects
 
-<a href="https://twitter.com/DrSeuss85134023" target="_blank">Markov Chain Text Generation with Dr Seuss (Twitter Bot)</a>
-<img src="images/dr_seuss.jpg?raw=true"/>
+<p>Markov Chain Text Generation with Dr Seuss (Twitter Bot)</p>
+<a href="https://twitter.com/DrSeuss85134023" target="_blank"><img src="images/dr_seuss.jpg?raw=true"/></a>
+<--! <img src="images/dr_seuss.jpg?raw=true"/>
 <style>
 img {
   border-radius: 10%
