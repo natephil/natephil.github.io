@@ -87,7 +87,7 @@ img {
 <a href="mailto:natephil93@gmail.com?Subject=Hello%20again" target="_top" class="fa fa-envelope"></a>
 <a href="https://twitter.com/cahn_nathan" target="_blank" class="fa fa-twitter"></a>
 
-<iframe src="https://docs.google.com/gview?url= https://github.com/natephil/resume/raw/gh-pages/pdf/2019_June_Nathan_Cahn.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=https://github.com/natephil/resume/raw/gh-pages/pdf/2019_June_Nathan_Cahn.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
 
       
 </body>
