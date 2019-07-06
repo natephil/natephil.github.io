@@ -94,7 +94,8 @@ img {
 </html> 
 
 ## Resume
-<a href="pdf/2019_06_10_Nathan_Cahn.pdf" target="_blank"</a>
+<!-- <a href="pdf/2019_06_10_Nathan_Cahn.pdf" target="_blank"</a> -->
+<a href="https://github.com/natephil/resume/raw/gh-pages/pdf/2019_June_Nathan_Cahn.pdf" target="_blank"</a>
 
 
 
