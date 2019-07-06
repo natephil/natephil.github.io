@@ -87,18 +87,18 @@ img {
 <a href="mailto:natephil93@gmail.com?Subject=Hello%20again" target="_top" class="fa fa-envelope"></a>
 <a href="https://twitter.com/cahn_nathan" target="_blank" class="fa fa-twitter"></a>
 
+---
+
+## Resume
+
 <iframe src="https://docs.google.com/gview?url=https://github.com/natephil/resume/raw/gh-pages/pdf/2019_June_Nathan_Cahn.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
 
       
 </body>
 </html> 
 
-## Resume
-<!-- <a href="pdf/2019_06_10_Nathan_Cahn.pdf" target="_blank"</a> -->
 
 
 
-
----
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 
