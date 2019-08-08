@@ -1,14 +1,5 @@
 ## My Portfolio
----
-<html>
-<head>
-	<title>testing...</title>
-</head>
-<body>
-  <img src="images/test.png"">
-</body>
-</html>
-    
+
 ---
 
 ### Projects
