@@ -5,7 +5,7 @@
 	<title>testing...</title>
 </head>
 <body>
-  <img src="images/test.png""></a>
+  <img src="images/test.png"">
 </body>
 </html>
     
