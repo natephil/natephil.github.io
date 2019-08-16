@@ -36,7 +36,7 @@ img {
 
 - [Summarize This](https://natephil.github.io/summarize_this/)
 - [Syntactic Complexity](https://natephil.github.io/sotu_syntactic_complexity/)
-- [Project 3 Title](http://example.com/)
+- [Presidents of Jeopardy!](https://natephil.github.io/jeopardy/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
