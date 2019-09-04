@@ -34,10 +34,10 @@ img {
 
 ### Smaller Projects
 
-- [Summarize This](https://natephil.github.io/summarize_this/)
-- [Syntactic Complexity](https://natephil.github.io/sotu_syntactic_complexity/)
+- <a href="https://natephil.github.io/categorize_wcs/" target="_blank">Color Categorization Survey</a>
 - <a href="https://natephil.github.io/jeopardy/" target="_blank">Presidents of Jeopardy!</a>
-- [Project 4 Title](http://example.com/)
+- <a href="https://natephil.github.io/summarize_this/" target="_blank">Summarize This</a>
+- <a href="https://natephil.github.io/sotu_syntactic_complexity/" target="_blank">Syntactic Complexity</a>
 - [Project 5 Title](http://example.com/)
 
 ---
