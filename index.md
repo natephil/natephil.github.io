@@ -97,7 +97,9 @@ img {
 
 ### Resume
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/natephil/resume/raw/gh-pages/pdf/2019_June_Nathan_Cahn.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+<!-- <iframe src="https://docs.google.com/gview?url=https://github.com/natephil/resume/raw/gh-pages/pdf/2019_June_Nathan_Cahn.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe> -->
+<iframe src="https://resume.creddle.io/embed/70yycowtm7w"
+width="850" height="1100" seamless></iframe>
 
 ---
 
