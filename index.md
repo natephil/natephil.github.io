@@ -101,7 +101,7 @@ img {
 <!-- <iframe src="https://resume.creddle.io/embed/70yycowtm7w"
 width="850" height="1100" seamless></iframe> -->
 <iframe src="https://resume.creddle.io/embed/70yycowtm7w"
-  width="100%" height="100%" seamless></iframe>
+  width="100%" height="100%"></iframe>
 
 ---
 
