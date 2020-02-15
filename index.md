@@ -88,8 +88,8 @@ img {
 <a href="https://www.linkedin.com/in/nathan-cahn-900b63a1/" target="_blank" class="fa fa-linkedin-square"></a>
 <a href="mailto:natephil93@gmail.com?Subject=Hello%20again" target="_top" class="fa fa-envelope"></a>
 <a href="https://twitter.com/cahn_nathan" target="_blank" class="fa fa-twitter"></a>
-</n>
-<a href="natephil.github.io/resume" target="_blank" class="fas fa-paper-plane">Resume</a>
+<br/>
+<a href="natephil.github.io/resume" target="_blank" class="fas fa-paper-plane"></a>
 
 
 
