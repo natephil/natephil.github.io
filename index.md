@@ -89,7 +89,7 @@ img {
 <a href="mailto:natephil93@gmail.com?Subject=Hello%20again" target="_top" class="fa fa-envelope"></a>
 <a href="https://twitter.com/cahn_nathan" target="_blank" class="fa fa-twitter"></a>
 <br/>
-<a href="natephil.github.io/resume" target="_blank" class="fas fa-paper-plane"></a>
+<a href="/resume" target="_blank" class="fa fa-paper-plane"></a>
 
 
 
