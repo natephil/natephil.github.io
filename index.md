@@ -35,7 +35,7 @@ img {
 ### Smaller Projects
 
 - <a href="https://natephil.github.io/color_categories/" target="_blank">Color Categorization Survey</a>
-- <a href="https://natephil.github.io/jeopardy/" target="_blank">Presidents of Jeopardy!</a>
+- <a href="https://natephil.github.io/wikipresidents/" target="_blank">President Scroll Story</a>
 - <a href="https://natephil.github.io/summarize_this/" target="_blank">Summarize This</a>
 - <a href="https://natephil.github.io/sotu_syntactic_complexity/" target="_blank">Syntactic Complexity</a>
 - [Project 5 Title](http://example.com/)
